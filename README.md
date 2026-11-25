@@ -70,7 +70,7 @@ I've shipped web apps in Django, React, Next.js and Angular, mobile apps in Flut
 
 Need a website, a dashboard, a mobile app or an internal tool? I build it end to end and explain it clearly along the way.
 
-📫 **[YOUR_EMAIL](mailto:YOUR_EMAIL)** — I usually reply within a day.
+📫 **[elkamelferyel@gmail.com](mailto:YOUR_EMAIL)** — I usually reply within a day.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
